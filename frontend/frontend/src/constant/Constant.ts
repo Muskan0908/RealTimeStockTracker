@@ -1,0 +1,1 @@
+export const stocks =  ['SOL', 'BNB', 'ETH', 'BTC', 'USDT'];
